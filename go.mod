@@ -1,4 +1,4 @@
-module github.com/geeks-accelerator/swag
+module github.com/astralkn/swag
 
 require (
 	github.com/KyleBanks/depth v1.2.1

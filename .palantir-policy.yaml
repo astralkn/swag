@@ -1,0 +1,10 @@
+policy:
+  approval:
+  - the employees team has approved
+
+approval_rules:
+- name: the employees team has approved
+  requires:
+    count: 1
+    teams:
+    - "aukaio/employees"
